@@ -2,7 +2,7 @@ import type { PortfolioPreview } from '../../data/portfolioPreviews'
 
 export function PortfolioPreviewCard({ preview }: { preview: PortfolioPreview }) {
   return (
-    <article className="group overflow-hidden rounded-xl border border-white/10 bg-axr-navy/70 transition-colors hover:border-white/25">
+    <article className="group overflow-hidden rounded-xl border border-white/10 bg-axr-navy/70 transition-[border-color,transform] duration-300 hover:-translate-y-0.5 hover:border-white/25 motion-reduce:transform-none">
       <div className="overflow-hidden bg-axr-black">
         <img
           src={preview.image}

@@ -1,0 +1,204 @@
+- generic [ref=e3]:
+  - link "Pular para o conteúdo" [ref=e4] [cursor=pointer]:
+    - /url: "#conteudo"
+  - generic [ref=e5]: AXR Sistemas Empresariais | Soluções tecnológicas sob medida
+  - banner [ref=e6]:
+    - generic [ref=e8]:
+      - link "AXR Sistemas — página inicial" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - navigation "Navegação principal" [ref=e12]:
+        - link "Início" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - link "Serviços" [ref=e14] [cursor=pointer]:
+          - /url: /servicos
+        - link "Clientes" [ref=e15] [cursor=pointer]:
+          - /url: /clientes
+        - link "Institucional" [ref=e16] [cursor=pointer]:
+          - /url: /institucional
+        - link "Objetivos" [ref=e17] [cursor=pointer]:
+          - /url: /objetivos
+      - link "Contato" [ref=e18] [cursor=pointer]:
+        - /url: /#contato
+  - main [ref=e22]:
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - paragraph [ref=e28]: AXR Sistemas Empresariais
+        - heading "Tecnologia que transforma desafios em soluções." [level=1] [ref=e30]
+        - paragraph [ref=e31]: Desenvolvemos sistemas personalizados, aplicativos e soluções digitais que simplificam processos e impulsionam empresas.
+        - generic [ref=e32]:
+          - link "Conheça nossos serviços" [ref=e33] [cursor=pointer]:
+            - /url: /servicos
+          - link "Solicite um orçamento" [ref=e37] [cursor=pointer]:
+            - /url: /#contato
+        - link "Descubra a AXR" [ref=e41] [cursor=pointer]:
+          - /url: "#quem-somos"
+      - generic [ref=e45]:
+        - generic [ref=e47]: AXR / SOLUÇÕES
+        - list [ref=e50]:
+          - listitem [ref=e51]:
+            - generic [ref=e55]:
+              - generic [ref=e56]:
+                - generic [ref=e57]: "01"
+                - generic [ref=e58]: Entender
+              - paragraph [ref=e59]: Cada projeto começa pelo desafio e pelo contexto da empresa.
+          - listitem [ref=e60]:
+            - generic [ref=e69]:
+              - generic [ref=e70]:
+                - generic [ref=e71]: "02"
+                - generic [ref=e72]: Desenhar
+              - paragraph [ref=e73]: A solução é planejada para o fluxo de trabalho que precisa atender.
+          - listitem [ref=e74]:
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - generic [ref=e83]: "03"
+                - generic [ref=e84]: Evoluir
+              - paragraph [ref=e85]: A tecnologia acompanha as necessidades do negócio.
+        - generic [ref=e86]: Tecnologia adaptada à realidade de cada negócio.
+    - generic [ref=e89]:
+      - img "Retrato profissional de integrante da AXR Sistemas Empresariais em frente a uma bancada com notebook exibindo software em desenvolvimento" [ref=e92]
+      - generic [ref=e94]:
+        - paragraph [ref=e95]: Pessoas e tecnologia
+        - heading "Uma parceira tecnológica para cada etapa do seu negócio." [level=2] [ref=e96]
+        - paragraph [ref=e97]: A AXR Sistemas Empresariais desenvolve soluções tecnológicas sob medida para organizações de diferentes portes no Brasil. Partimos das necessidades de cada cliente para criar sistemas, aplicativos e plataformas que ajudam a organizar processos e melhorar a experiência das pessoas.
+        - link "Conheça a AXR" [ref=e98] [cursor=pointer]:
+          - /url: /institucional
+    - generic [ref=e103]:
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - heading "Tecnologia que se adapta à sua operação." [level=2] [ref=e106]
+          - paragraph [ref=e107]: Do planejamento à experiência de uso, criamos soluções digitais alinhadas ao problema que sua empresa precisa resolver.
+        - link "Ver todos os serviços" [ref=e108] [cursor=pointer]:
+          - /url: /servicos
+      - generic [ref=e112]:
+        - article [ref=e113]:
+          - generic [ref=e119]:
+            - heading "Sistemas empresariais personalizados" [level=3] [ref=e120]
+            - paragraph [ref=e121]: Soluções desenhadas para organizar operações e acompanhar a rotina de cada empresa.
+          - 'link "Conhecer o serviço: Sistemas empresariais personalizados" [ref=e122] [cursor=pointer]':
+            - /url: /servicos#sistemas-empresariais
+            - text: Saiba mais
+        - article [ref=e126]:
+          - generic [ref=e130]:
+            - heading "Aplicativos personalizados" [level=3] [ref=e131]
+            - paragraph [ref=e132]: Experiências digitais criadas para necessidades específicas de equipes e clientes.
+          - 'link "Conhecer o serviço: Aplicativos personalizados" [ref=e133] [cursor=pointer]':
+            - /url: /servicos#aplicativos
+            - text: Saiba mais
+        - article [ref=e137]:
+          - generic [ref=e143]:
+            - heading "Sites corporativos" [level=3] [ref=e144]
+            - paragraph [ref=e145]: Presença digital clara, responsiva e alinhada à identidade do seu negócio.
+          - 'link "Conhecer o serviço: Sites corporativos" [ref=e146] [cursor=pointer]':
+            - /url: /servicos#sites-corporativos
+            - text: Saiba mais
+        - article [ref=e150]:
+          - generic [ref=e155]:
+            - heading "Plataformas de atendimento" [level=3] [ref=e156]
+            - paragraph [ref=e157]: Ferramentas para organizar solicitações e facilitar a comunicação com clientes.
+          - 'link "Conhecer o serviço: Plataformas de atendimento" [ref=e158] [cursor=pointer]':
+            - /url: /servicos#atendimento
+            - text: Saiba mais
+        - article [ref=e162]:
+          - generic [ref=e167]:
+            - heading "Gestão de tarefas e processos" [level=3] [ref=e168]
+            - paragraph [ref=e169]: Mais visibilidade sobre atividades, responsabilidades e fluxos de trabalho.
+          - 'link "Conhecer o serviço: Gestão de tarefas e processos" [ref=e170] [cursor=pointer]':
+            - /url: /servicos#tarefas-processos
+            - text: Saiba mais
+    - generic [ref=e176]:
+      - generic [ref=e177]:
+        - heading "Cada desafio pede uma resposta própria." [level=2] [ref=e178]
+        - paragraph [ref=e179]: Unimos atenção ao contexto da empresa e desenvolvimento personalizado para criar ferramentas úteis no dia a dia.
+      - list [ref=e180]:
+        - listitem [ref=e181]:
+          - generic [ref=e184]: Desenvolvimento sob medida
+        - listitem [ref=e185]:
+          - generic [ref=e193]: Foco em problemas reais
+        - listitem [ref=e194]:
+          - generic [ref=e200]: Soluções escaláveis
+        - listitem [ref=e201]:
+          - generic [ref=e204]: Interfaces intuitivas
+        - listitem [ref=e205]:
+          - generic [ref=e211]: Melhoria contínua
+        - listitem [ref=e212]:
+          - generic [ref=e216]: Atendimento em todo o Brasil
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - generic [ref=e220]:
+          - heading "Projetos e soluções." [level=2] [ref=e221]
+          - paragraph [ref=e222]: Explore as identidades visuais de soluções para processos, finanças, visitas comerciais e motos.
+        - link "Ver todas as soluções" [ref=e223] [cursor=pointer]:
+          - /url: /clientes
+      - generic [ref=e227]:
+        - article [ref=e228]:
+          - img "Prévia ilustrativa do AXR Fluxo com tarefas e subtarefas em um quadro Kanban" [ref=e230]
+          - generic [ref=e231]:
+            - paragraph [ref=e232]: Gestão de processos
+            - heading "AXR Fluxo" [level=3] [ref=e233]
+            - paragraph [ref=e234]: Organiza tarefas em um quadro Kanban com subtarefas, prazos e acompanhamento de cada etapa.
+            - paragraph [ref=e235]: Prévia visual ilustrativa
+        - article [ref=e236]:
+          - img "Prévia ilustrativa do AXR Saldo com resumo mensal, contas e valores demonstrativos" [ref=e238]
+          - generic [ref=e239]:
+            - paragraph [ref=e240]: Sistema financeiro
+            - heading "AXR Saldo" [level=3] [ref=e241]
+            - paragraph [ref=e242]: Reúne receitas, despesas, lançamentos e contas em um painel financeiro mensal.
+            - paragraph [ref=e243]: Prévia visual ilustrativa
+    - generic [ref=e246]:
+      - generic [ref=e247]:
+        - heading "Vamos transformar sua ideia em uma solução?" [level=2] [ref=e248]
+        - paragraph [ref=e249]: Conte sobre o desafio da sua empresa e descubra como uma solução personalizada pode apoiar sua operação.
+      - generic [ref=e250]:
+        - heading "Solicite um orçamento" [level=3] [ref=e251]
+        - paragraph [ref=e252]: O primeiro passo é uma conversa sobre suas necessidades.
+        - generic [ref=e253]:
+          - link "Conversar pelo WhatsApp" [ref=e254] [cursor=pointer]:
+            - /url: https://wa.me/5513978254922?text=Ol%C3%A1!%20Conheci%20a%20AXR%20Sistemas%20Empresariais%20pelo%20site%20e%20gostaria%20de%20conversar%20sobre%20o%20desenvolvimento%20de%20uma%20solu%C3%A7%C3%A3o%20personalizada%20para%20minha%20empresa.
+          - link "Enviar e-mail" [ref=e260] [cursor=pointer]:
+            - /url: mailto:contato@axrsistemas.com.br
+  - contentinfo [ref=e267]:
+    - generic [ref=e268]:
+      - generic [ref=e269]:
+        - generic [ref=e270]:
+          - link "AXR Sistemas — página inicial" [ref=e271] [cursor=pointer]:
+            - /url: /
+          - paragraph [ref=e274]: Soluções tecnológicas personalizadas para empresas.
+          - paragraph [ref=e275]: Atendimento online em todo o Brasil e presencial na Baixada Santista.
+        - generic [ref=e276]:
+          - heading "Navegação" [level=2] [ref=e277]
+          - list [ref=e278]:
+            - listitem [ref=e279]:
+              - link "Início" [ref=e280] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e281]:
+              - link "Serviços" [ref=e282] [cursor=pointer]:
+                - /url: /servicos
+            - listitem [ref=e283]:
+              - link "Clientes" [ref=e284] [cursor=pointer]:
+                - /url: /clientes
+            - listitem [ref=e285]:
+              - link "Institucional" [ref=e286] [cursor=pointer]:
+                - /url: /institucional
+            - listitem [ref=e287]:
+              - link "Objetivos" [ref=e288] [cursor=pointer]:
+                - /url: /objetivos
+        - generic [ref=e289]:
+          - heading "Soluções" [level=2] [ref=e290]
+          - list [ref=e291]:
+            - listitem [ref=e292]: Sistemas personalizados
+            - listitem [ref=e293]: Aplicativos
+            - listitem [ref=e294]: Sites corporativos
+            - listitem [ref=e295]: Plataformas de atendimento
+            - listitem [ref=e296]: Gestão de tarefas
+        - generic [ref=e297]:
+          - heading "Contato" [level=2] [ref=e298]
+          - generic [ref=e299]:
+            - generic [ref=e300]:
+              - paragraph [ref=e301]: (13) 97825-4922
+              - link "WhatsApp" [ref=e302] [cursor=pointer]:
+                - /url: https://wa.me/5513978254922?text=Ol%C3%A1!%20Conheci%20a%20AXR%20Sistemas%20Empresariais%20pelo%20site%20e%20gostaria%20de%20conversar%20sobre%20o%20desenvolvimento%20de%20uma%20solu%C3%A7%C3%A3o%20personalizada%20para%20minha%20empresa.
+            - link "contato@axrsistemas.com.br" [ref=e306] [cursor=pointer]:
+              - /url: mailto:contato@axrsistemas.com.br
+      - generic [ref=e307]:
+        - generic [ref=e308]: © 2026 AXR Sistemas Empresariais. Todos os direitos reservados.
+        - generic [ref=e309]: Tecnologia personalizada para cada negócio.

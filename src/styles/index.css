@@ -16,7 +16,13 @@
 html { scroll-behavior: smooth; scrollbar-color: #334155 #080B12; }
 body { min-width: 320px; margin: 0; }
 a { text-underline-offset: .2em; }
+:focus-visible { outline: 2px solid #60A5FA; outline-offset: 4px; }
 ::selection { background: #1D4ED8; color: #F8FAFC; }
+@keyframes axr-enter { from { opacity: .72; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes axr-visual-enter { from { opacity: .75; transform: translateY(16px) scale(.99); } to { opacity: 1; transform: translateY(0) scale(1); } }
+.hero-enter { animation: axr-enter .8s cubic-bezier(.2,.8,.2,1) both; }
+.hero-visual-enter { animation: axr-visual-enter .9s .12s cubic-bezier(.2,.8,.2,1) both; }
+main > section:first-child h1 { animation: axr-enter .8s cubic-bezier(.2,.8,.2,1) both; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; }
 }

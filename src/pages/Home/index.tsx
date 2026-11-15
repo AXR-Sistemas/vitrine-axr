@@ -17,14 +17,14 @@ export function HomePage() {
       <div aria-hidden="true" className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_78%_42%,rgba(29,78,216,0.16),transparent_34%),linear-gradient(rgba(148,163,184,0.035)_1px,transparent_1px),linear-gradient(90deg,rgba(148,163,184,0.035)_1px,transparent_1px)] bg-[size:auto,56px_56px,56px_56px]" />
       <PageContainer>
         <div className="grid gap-14 py-16 sm:py-24 lg:min-h-[670px] lg:grid-cols-[minmax(0,1.2fr)_minmax(320px,0.8fr)] lg:items-center lg:gap-14 lg:py-28">
-          <div className="max-w-3xl">
+          <div className="hero-enter max-w-3xl">
             <p className="mb-8 flex items-center gap-3 text-xs font-semibold uppercase tracking-[0.22em] text-axr-interactive"><span className="h-px w-7 bg-axr-interactive" /> AXR Sistemas Empresariais</p>
             <h1 className="text-balance text-4xl font-semibold leading-[1.08] tracking-[-0.035em] text-white sm:text-6xl lg:text-[4rem]">Tecnologia que transforma desafios em soluções.</h1>
             <p className="mt-7 max-w-2xl text-pretty text-base leading-8 text-axr-muted sm:text-lg">Desenvolvemos sistemas personalizados, aplicativos e soluções digitais que simplificam processos e impulsionam empresas.</p>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row"><PrimaryButton to="/servicos">Conheça nossos serviços</PrimaryButton><PrimaryButton to="/#contato" variant="outline">Solicite um orçamento</PrimaryButton></div>
             <a href="#quem-somos" className="mt-12 inline-flex min-h-11 items-center gap-3 text-sm text-axr-muted transition-colors hover:text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-axr-interactive"><ArrowDown size={16} aria-hidden="true" /> Descubra a AXR</a>
           </div>
-          <div className="relative hidden lg:block">
+          <div className="hero-visual-enter relative hidden lg:block">
             <div aria-hidden="true" className="pointer-events-none absolute inset-0 flex items-center justify-center"><span className="absolute size-[620px] rounded-full border border-axr-interactive/15" /><span className="absolute size-[540px] rounded-full border border-axr-interactive/15" /><span className="absolute -left-8 top-1/4 size-2 rounded-full bg-axr-interactive" /><span className="absolute -right-7 bottom-1/4 size-2 rounded-full bg-axr-interactive" /></div>
             <div className="relative overflow-hidden rounded-2xl border border-white/10 bg-axr-navy/90 p-7 shadow-[0_24px_70px_rgba(0,0,0,0.22)] lg:p-9">
               <div aria-hidden="true" className="absolute right-0 top-0 h-px w-2/3 bg-gradient-to-l from-axr-interactive/70 to-transparent" />
