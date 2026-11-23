@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build && node scripts/prepare-pages.mjs",
     "preview": "vite preview",
-    "typecheck": "tsc -b"
+    "typecheck": "tsc -b",
+    "deploy": "npm run build && npx wrangler@4 pages deploy",
+    "cf:whoami": "npx wrangler@4 whoami"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

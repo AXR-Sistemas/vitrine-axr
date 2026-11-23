@@ -3,7 +3,7 @@ export const siteConfig = {
   shortName: 'AXR Sistemas',
   description: 'Soluções tecnológicas personalizadas para empresas.',
   serviceArea: 'Atendimento online em todo o Brasil e presencial na Baixada Santista.',
-  siteUrl: null as string | null,
+  siteUrl: 'https://axrsistemas.com.br' as string | null,
   contact: {
     whatsapp: '5513978254922' as string | null,
     whatsappDisplay: '(13) 97825-4922',
