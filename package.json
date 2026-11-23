@@ -8,7 +8,7 @@
     "build": "tsc -b && vite build && node scripts/prepare-pages.mjs",
     "preview": "vite preview",
     "typecheck": "tsc -b",
-    "deploy": "npm run build && npx wrangler@4 pages deploy",
+    "deploy": "npm run build && npx wrangler@4 deploy",
     "cf:whoami": "npx wrangler@4 whoami"
   },
   "dependencies": {

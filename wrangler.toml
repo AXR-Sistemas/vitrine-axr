@@ -1,3 +1,8 @@
 name = "vitrine-axr"
-pages_build_output_dir = "./dist"
 compatibility_date = "2026-11-23"
+
+# Site estático servido pelo Cloudflare Workers (static assets).
+# _headers em dist/ continua sendo aplicado; rotas desconhecidas caem no index.html (SPA).
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
